@@ -1,7 +1,3 @@
-Certainly! Here's a consolidated and detailed report of the modifications made to XV6:
-
----
-
 ## **Enhancements and Additions to XV6 Operating System**
 
 ### Introduction
